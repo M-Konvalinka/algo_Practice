@@ -18,7 +18,7 @@ twoSum = (nums,target) => {
     return("there is no valid set of nums");
     };
 
-/* 
+/* ORIGINAL ANSWER
 twoSum = (inputArray,target) => {
     // Declare returnArray variable to be able to be able to store the two array values
     let returnArray = [];
